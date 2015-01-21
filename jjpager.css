@@ -1,0 +1,48 @@
+.jjpager{
+    clear:both;
+    height:30px;
+    line-height:30px;
+    margin-top:20px;
+    color:#3a3549;
+    font-size:14px;
+}
+.jjpager a{
+    padding:4px 8px;
+    font-size:12px;
+    border:1px solid #cbcbcb;
+    background-color:#eee;
+    color:#3a3549;
+    text-decoration:none;
+}
+.jjpager a:hover{ background:#d93637; color:#fff;}
+.jjpager span{
+    font-size:12px;
+}
+.jjpager span.disabled{
+    padding:4px 8px;
+    font-size:12px;
+    border:1px solid #cbcbcb;
+    background-color:#FFF;
+    color:#DFDFDF;
+}
+.jjpager span.curr{
+    padding:4px 8px;
+    font-size:12px;
+    border:1px solid #cbcbcb;
+    background-color:#fff;
+    color:#000;
+}
+
+.jjpager span.f12{
+    font-size: 12px;
+    color: #999;
+}
+
+.jjpager input.ym {
+    width: 40px;
+    border: 1px solid #999;
+    text-align: center;
+}
+
+.ml10{ margin-left:10px;}
+.mr10{ margin-right:10px;}
